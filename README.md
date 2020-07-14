@@ -88,3 +88,9 @@ spec:
   - Exam Tips: https://www2.thelinuxfoundation.org/ckad-tips
   - Keep the code - DEVOPS15 - handy while registering for the CKA or CKAD exams at Linux Foundation to get a 15% discount
   
+  # Kubernetes Command Line 
+  - kubectl run hello-world
+  - kubectl cluster-info
+  - kubectl get nodes
+  - kubectl get pods
+  
