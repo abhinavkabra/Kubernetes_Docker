@@ -80,6 +80,7 @@ spec:
   - kubectl rollout status <deployment_name>
   - kubectl rollout history <deployment_name>
   - kubectl rollour undo <deployment_name>
+  - kubectl scale --replicas=2 rs/replica-set
   
   # CKAD Exam Tips
   
