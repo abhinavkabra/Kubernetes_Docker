@@ -94,3 +94,5 @@ spec:
   - kubectl get nodes
   - kubectl get pods
   
+  # Kubernetes Labs
+  - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039428
