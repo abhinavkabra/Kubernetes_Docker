@@ -99,10 +99,4 @@ spec:
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039428
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039434
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039431
-  
-  #Imperative Commands
-   In kubernetes you can use imperative commands as well, and using Kubectl you can generate Yaml file from it, Rather than writing it from scratch.
-   
-    ## Create a Pod
-      `kubectl run nginx --image=nginx -o yaml > pod-definition.yaml`
    
