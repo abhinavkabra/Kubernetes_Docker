@@ -94,6 +94,7 @@ spec:
   - kubectl cluster-info
   - kubectl get nodes
   - kubectl get pods
+  - kubectl config set-context $(kubectl config current-context) --namespace=prod
   
   # Kubernetes Labs
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039428
