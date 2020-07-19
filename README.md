@@ -103,6 +103,7 @@ spec:
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039438
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039436
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039454
+  - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039457
   
     
   # Imperative Commands
