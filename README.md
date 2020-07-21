@@ -96,6 +96,11 @@ spec:
   - kubectl get pods
   - kubectl config set-context $(kubectl config current-context) --namespace=prod
   
+  # Kubernetes Important Link
+  - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
+  - https://kubernetes.io/docs/concepts/containers/container-lifecycle-hooks/
+  - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+  
   # Kubernetes Labs
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039428
   - https://kodekloud.com/courses/kubernetes-certification-course-labs/lectures/12039434
