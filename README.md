@@ -88,6 +88,7 @@ spec:
   - Candidate Handbook: https://www.cncf.io/certification/candidate-handbook
   - Exam Tips: https://www2.thelinuxfoundation.org/ckad-tips
   - Keep the code - DEVOPS15 - handy while registering for the CKA or CKAD exams at Linux Foundation to get a 15% discount
+  - https://trainingportal.linuxfoundation.org/learn/dashboard
   
   # Kubernetes Command Line 
   - kubectl run hello-world
